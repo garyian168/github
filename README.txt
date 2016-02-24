@@ -1,2 +1,3 @@
-Hello World   .
-$datetime
+Hello World.
+
+$datetime.
